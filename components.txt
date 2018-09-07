@@ -1,0 +1,9 @@
+
+
+https://www.digikey.com/product-detail/en/kemet/C0805C223K1RACAUTO/399-6944-2-ND/3314936  ***** capacitor 22nF 100v 0805
+https://www.digikey.com/product-detail/en/tdk-corporation/C2012X7S2A474M125AE/445-6803-1-ND/2616434 *****  capacitor 470nF 100V SMD 0805
+https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P6WF3301V/P16891TR-ND/4964800  *** resistencia 3.3k 0805 
+https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P06J102V/P1.0KADCT-ND/525437  **** resistencia 1k 0805 
+https://www.digikey.com/product-detail/en/kemet/C0805C332KARACAUTO/399-16653-1-ND/8110019   **** capacitor 3.3nF  0805
+https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERA-6AEB101V/P100DATR-ND/1465724  **** resistencia 100 0805
+https://www.digikey.com/product-detail/en/panasonic-electronic-components/EEE-FT1E101AP/PCE5007TR-ND/2652038 **** capacitor 100uF 25V
